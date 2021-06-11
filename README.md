@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishakaVinod
-- 👀 I’m interested in web development, aspiring to be a software developer and aquire pretty decent development skills.
+- 👀 I’m interested in web development, aspiring to be a software developer.
 - 🌱 I’m currently learning Javascript and Python. Want to expand to React in the near future.
 - 💞️ I’m looking to collaborate on any simple HTML and CSS projects.
 - 📫 You can reach me @ vishaka.higher@gmail.com
